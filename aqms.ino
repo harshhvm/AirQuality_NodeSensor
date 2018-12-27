@@ -19,8 +19,8 @@ const int mqttPort = 1883;
 const char *mqttUser = "user";
 const char *mqttPassword = "password";
 
-//String devId = "5b59a30a0f7e613d2b4548f7";
-//String custId = "5b574235ceebec3db3cd130c";
+String devId = "5b59a30a0f7e613d2b4548f7";  
+String custId = "5b574235ceebec3db3cd130c";
 
 String topic = "aqms/" + devId + "/aq";
 String topic1 = "aqms/" + devId + "/hd";

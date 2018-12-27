@@ -11,10 +11,10 @@
 AES aes;
 dht DHT;
 
-const char *ssid = "iotiot";
-const char *password = "asdf7890";
+const char *ssid = "SSID";
+const char *password = "password";
 
-const char *mqttServer = "18.236.170.110";
+const char *mqttServer = "IP Address of cloud server";
 const int mqttPort = 1883;
 const char *mqttUser = "user";
 const char *mqttPassword = "password";

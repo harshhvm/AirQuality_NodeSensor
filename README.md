@@ -6,3 +6,4 @@ This project sends temperature and humidity and Air quality data from DHT11 Sens
 3.Edit MQTT broker Address
 4.Now Flash code in the ESP8266 and Receive data by Mqtt Client (Subscriber).
 
+For more information please explore this article: https://apalgorithm.com/air-quality-monitoring-project-using-nodemcu-dht11-and-mq135-sensor/
